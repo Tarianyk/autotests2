@@ -1,4 +1,4 @@
 {
-  "dev": "gradle -q hello",
+  "dev": "gradle -q autotests2",
   "sit": "gradle -q hello"
 }
