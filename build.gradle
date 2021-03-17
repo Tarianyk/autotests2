@@ -17,6 +17,6 @@ repositories {
 
 tasks.register('hello') {
     doLast {
-        println 'Hello world!'
+        println 'Hello world autotests2!'
     }
 }
